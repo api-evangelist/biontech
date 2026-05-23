@@ -1,0 +1,77 @@
+aid: biontech
+url: https://raw.githubusercontent.com/api-evangelist/biontech/refs/heads/main/apis.yml
+name: BioNTech
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+- Biotechnology
+- Pharmaceuticals
+- mRNA
+- Vaccines
+- Oncology
+- Immunotherapy
+- Healthcare
+description: BioNTech is a Mainz-based biotechnology company that pioneered the use of messenger RNA (mRNA) technology in
+  human therapeutics. Best known for co-developing Comirnaty, the COVID-19 mRNA vaccine with Pfizer, BioNTech is building
+  a broad oncology pipeline across mRNA cancer immunotherapies, next-generation immunomodulators such as the bispecific
+  antibody BNT327, and targeted therapies, as well as continuing infectious disease vaccine development. BioNTech does not
+  currently expose a public developer API; this index captures the company's products, pipeline, clinical trials, and corporate
+  resources as an API Evangelist profile.
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+- type: LinkedIn
+  url: https://www.linkedin.com/company/biontech-se
+- type: Website
+  url: https://biontech.com/
+- type: Investors
+  url: https://investors.biontech.de/
+- type: MedicalAffairs
+  url: https://medical.biontech.com/
+  title: BioNTech for Healthcare Professionals
+- type: ClinicalTrials
+  url: https://clinicaltrials.biontech.com/
+- type: Careers
+  url: https://jobs.biontech.com/
+- type: News
+  url: https://biontech.com/us/en/home/media.html
+- type: PressReleases
+  url: https://investors.biontech.de/news-releases
+- type: PrivacyPolicy
+  url: https://biontech.com/int/en/home/privacy-statement.html
+- type: TermsOfService
+  url: https://biontech.com/int/en/home/imprint.html
+- type: Features
+  data:
+  - name: mRNA Platform
+    description: Proprietary messenger RNA platform underlying Comirnaty and the company's broader vaccine and oncology pipeline
+  - name: Comirnaty
+    description: COVID-19 mRNA vaccine co-developed and commercialized in collaboration with Pfizer
+  - name: Oncology Pipeline
+    description: Three complementary modalities across mRNA cancer immunotherapies, next-generation immunomodulators, and
+      targeted therapies
+  - name: BNT327
+    description: Next-generation bispecific antibody candidate binding PD-L1 and VEGF-A for synergistic cancer treatment
+  - name: mRNA Cancer Immunotherapies
+    description: Individualized neoantigen cancer immunotherapies targeting residual tumor cells in adjuvant settings
+  - name: Infectious Diseases Pipeline
+    description: Vaccine candidates extending the mRNA platform to additional high-burden infectious diseases
+- type: UseCases
+  data:
+  - name: COVID-19 Vaccination
+    description: Continued supply of Comirnaty COVID-19 vaccine across global markets
+  - name: Cancer Immunotherapy
+    description: 25+ Phase 2/3 oncology clinical trials and 10+ novel combination trials
+  - name: Pandemic Preparedness
+    description: Application of mRNA platform to rapidly developable vaccines against emerging infectious disease threats
+  - name: Healthcare Professional Information
+    description: Dedicated medical affairs portal providing scientific and clinical data to clinicians
+- type: Integrations
+  data:
+  - name: Pfizer Collaboration
+    description: Long-running co-development and commercialization partnership for Comirnaty and other mRNA programs
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com

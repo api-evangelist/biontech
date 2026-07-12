@@ -22,6 +22,8 @@ modified: '2026-05-23'
 specificationVersion: '0.19'
 apis: []
 common:
+- type: DomainSecurity
+  url: security/biontech-domain-security.yml
 - type: LinkedIn
   url: https://www.linkedin.com/company/biontech-se
 - type: Website
@@ -39,6 +41,8 @@ common:
   url: https://biontech.com/us/en/home/media.html
 - type: PressReleases
   url: https://investors.biontech.de/news-releases
+- type: Blog
+  url: https://biontech.com/us/en/home/mediaroom/news.html
 - type: PrivacyPolicy
   url: https://biontech.com/int/en/home/privacy-statement.html
 - type: TermsOfService

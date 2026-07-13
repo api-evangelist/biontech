@@ -1,0 +1,18 @@
+{
+  "repo": "biontech",
+  "feeds": [
+    {
+      "source": "https://biontech.com/us/en/home/mediaroom.html",
+      "feed_url": "https://biontech.com/us/en/home/mediaroom.html",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://investors.biontech.de/news-releases",
+      "error": "TimeoutError"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 1
+}

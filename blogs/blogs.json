@@ -2,18 +2,18 @@
   "repo": "biontech",
   "feeds": [
     {
+      "source": "https://investors.biontech.de/news-releases",
+      "error": "TimeoutError"
+    },
+    {
       "source": "https://biontech.com/us/en/home/mediaroom.html",
       "feed_url": "https://biontech.com/us/en/home/mediaroom.html",
       "title": "",
       "saved": 0,
       "method": "none"
-    },
-    {
-      "source": "https://investors.biontech.de/news-releases",
-      "error": "TimeoutError"
     }
   ],
-  "fetched": "2026-08-30T22:33:40Z",
+  "fetched": "2026-09-06T19:17:18Z",
   "post_count": 1,
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
